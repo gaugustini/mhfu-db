@@ -608,7 +608,7 @@
         "description": "Wyvern excrement. One dropping can maximize the fertility of all rows.",
         "carry-max": 99,
         "icon": "dung",
-        "color": "red",
+        "color": "orange",
         "selling-price": 2
     },
     {
@@ -742,7 +742,7 @@
         "rare": 2,
         "description": "A large, empty barrel.",
         "carry-max": 10,
-        "icon": "boomerang",
+        "icon": "barrel",
         "color": "red",
         "selling-price": 21
     },
@@ -1138,7 +1138,7 @@
         "rare": 2,
         "description": "Bows loaded with these bottles will have high attack power. Max 50.",
         "carry-max": 50,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "red",
         "selling-price": 3
     },
@@ -1147,7 +1147,7 @@
         "rare": 3,
         "description": "Bows loaded with these bottles poison enemies on shaft impact. Max 20.",
         "carry-max": 20,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "purple",
         "selling-price": 2
     },
@@ -1156,7 +1156,7 @@
         "rare": 3,
         "description": "Bows loaded with these bottles paralyze enemies on shaft impact. Max 20.",
         "carry-max": 20,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "yellow",
         "selling-price": 3
     },
@@ -1165,7 +1165,7 @@
         "rare": 3,
         "description": "Bows loaded with these bottles will put enemies to sleep. Max 20.",
         "carry-max": 20,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "sky",
         "selling-price": 2
     },
@@ -1174,7 +1174,7 @@
         "rare": 3,
         "description": "Bows loaded with these get higher close-range power & melee Sharpness. Max 20.",
         "carry-max": 20,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "white",
         "selling-price": 3
     },
@@ -1183,7 +1183,7 @@
         "rare": 1,
         "description": "Bows loaded with these can make monsters appear on the map. Max 99.",
         "carry-max": 99,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "pink",
         "selling-price": 6
     },
@@ -1355,7 +1355,7 @@
         "description": "Lets you observe from a distance.",
         "carry-max": 1,
         "icon": "binoculars",
-        "color": "gray",
+        "color": "white",
         "selling-price": 5
     },
     {
@@ -2506,7 +2506,7 @@
         "rare": 4,
         "description": "Has more uses than small bone. Usually carved to make an item.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "yellow",
         "selling-price": 210
     },
@@ -2515,7 +2515,7 @@
         "rare": 5,
         "description": "Indispensable for crafting one-piece items. Bone can be connected to shell.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "yellow",
         "selling-price": 440
     },
@@ -2524,7 +2524,7 @@
         "rare": 5,
         "description": "Top quality monster bone. Hard to find but a nearly unbreakable material.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "orange",
         "selling-price": 560
     },
@@ -2533,7 +2533,7 @@
         "rare": 5,
         "description": "A monster's most unique bone. Priceless strength, but difficult to work.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "red",
         "selling-price": 660
     },
@@ -2542,7 +2542,7 @@
         "rare": 5,
         "description": "Strong bone from only the toughest of wyverns. It's very thick and heavy.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "gray",
         "selling-price": 1320
     },
@@ -2551,7 +2551,7 @@
         "rare": 5,
         "description": "You can sense the elder dragon's dignity from this massive bone alone.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "purple",
         "selling-price": 880
     },
@@ -2560,7 +2560,7 @@
         "rare": 5,
         "description": "Top-notch bone from a large dragon. Feels like it could last forever.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "purple",
         "selling-price": 2200
     },
@@ -2569,7 +2569,7 @@
         "rare": 1,
         "description": "A well-worn bone. Not sturdy enough to use in combination.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "yellow",
         "selling-price": 1
     },
@@ -2578,7 +2578,7 @@
         "rare": 4,
         "description": "Animal skull. So worn and weathered, it's unidentifiable.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "yellow",
         "selling-price": 120
     },
@@ -2587,7 +2587,7 @@
         "rare": 5,
         "description": "The remains of a top hunter who once let his guard down.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "white",
         "selling-price": 1250
     },
@@ -2596,7 +2596,7 @@
         "rare": 1,
         "description": "Just a bone. So worn and weathered, it's unidentifiable.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "white",
         "selling-price": 15
     },
@@ -2768,7 +2768,7 @@
         "description": "Droppings used by a monster to mark territory. (Account Item)",
         "carry-max": 10,
         "icon": "dung",
-        "color": "red",
+        "color": "orange",
         "selling-price": 500
     },
     {
@@ -2777,7 +2777,7 @@
         "description": "Large droppings used by a monster to mark territory. (Account Item)",
         "carry-max": 10,
         "icon": "dung",
-        "color": "red",
+        "color": "orange",
         "selling-price": 2500
     },
     {
@@ -11210,7 +11210,7 @@
         "description": "dummy",
         "carry-max": 99,
         "icon": "ticket",
-        "color": "white",
+        "color": "orange",
         "selling-price": 0
     },
     {
