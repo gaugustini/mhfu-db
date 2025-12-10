@@ -11196,15 +11196,6 @@
         "selling-price": 0
     },
     {
-        "name": "Plus Class Tcket",
-        "rare": 5,
-        "description": "Can be traded for ultra rare pieces of equipment in place of materials.",
-        "carry-max": 99,
-        "icon": "ticket",
-        "color": "blue",
-        "selling-price": 0
-    },
-    {
         "name": "Magazine Ticket",
         "rare": 5,
         "description": "dummy",
