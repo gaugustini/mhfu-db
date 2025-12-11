@@ -11160,6 +11160,24 @@
         "selling-price": 600
     },
     {
+        "name": "Gravibiscus",
+        "rare": 4,
+        "description": "Dosbiscus that grows on volcanoes. Will not wither in magma. (Treasure)",
+        "carry-max": 20,
+        "icon": "herb",
+        "color": "gray",
+        "selling-price": 0
+    },
+    {
+        "name": "Celeb Cicada",
+        "rare": 5,
+        "description": "A fabulously gorgeous cicada. Its song is legendary. (Treasure)",
+        "carry-max": 20,
+        "icon": "insect",
+        "color": "green",
+        "selling-price": 0
+    },
+    {
         "name": "Dengeki Ticket G",
         "rare": 5,
         "description": "dummy",
